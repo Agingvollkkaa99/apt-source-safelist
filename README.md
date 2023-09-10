@@ -1,4 +1,4 @@
-o# APT source safelist
+ko# APT source safelist
 
 This repo contains JSON files for the sources approved for addition in
 restricted build environments, specifically meant for the `apt` addon in
