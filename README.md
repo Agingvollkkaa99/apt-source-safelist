@@ -1,4 +1,7 @@
-ko# APT source safelist
+git branch -m master masterl
+git fetch origin
+git branch -u origin/masterl masterl
+git remote set-head origin -ako# APT source safelist
 
 This repo contains JSON files for the sources approved for addition in
 restricted build environments, specifically meant for the `apt` addon in
